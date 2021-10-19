@@ -10,5 +10,6 @@ target 'Parstagram' do
   pod 'AFNetworking'
   pod 'BDBOAuth1Manager'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
 end
